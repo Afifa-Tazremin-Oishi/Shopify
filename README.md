@@ -1,6 +1,6 @@
 # Online Leptop Store 
 
-Live Site Link [Live Site Online Store]().
+Live Site Link [Live Site Online Store](https://jocular-crostata-596922.netlify.app/).
 
 ## Available Scripts
 
